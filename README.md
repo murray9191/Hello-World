@@ -7,3 +7,6 @@ A taco is a taco all day long.
 sudo apt-get update 
 
 need to learn more. 
+
+
+Give user read/write permissions. 
